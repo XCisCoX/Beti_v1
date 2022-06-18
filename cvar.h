@@ -1,0 +1,12 @@
+extern int shit;
+extern int is;
+extern int autocl;
+extern int shutdownn;
+extern int name, weapon, reload, distanesp, confont, boxvis;
+extern int esp_box;
+extern int esp_ent;
+extern int RED;
+extern int GREEN;
+extern int BLUE;
+extern int misc_bhop, misc_chasecam;
+extern int misc_strafe;

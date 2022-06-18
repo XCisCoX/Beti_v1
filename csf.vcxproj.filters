@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33c10756-1531-431c-82f0-5d76374fcdaa}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Source Files\sdk">
+      <UniqueIdentifier>{96ab242e-cc15-4bbb-8b2e-c7a846e046a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{f8b1bfec-ecb8-451e-92cb-35a53e27021e}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{2d445db0-5fed-41d8-88e0-5c73be28749b}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="misc\sprites.cpp">
+      <Filter>Source Files\sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="ADE32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="apihook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="color.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cSprites.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cvar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="detours.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="drawing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ESP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gateways.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="msghook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="parsemsg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="players.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="weapon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="xEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="strings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="misc\sprites.h">
+      <Filter>Source Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="ADE32.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="apihook.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="client.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="color.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cSprites.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cvar.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="detours.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawing.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ESP.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gateways.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="msghook.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="parsemsg.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="players.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="time.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tkz.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="weapon.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xEngine.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xorstr.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="strings.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
